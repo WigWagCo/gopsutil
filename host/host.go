@@ -3,7 +3,7 @@ package host
 import (
 	"encoding/json"
 
-	"github.com/WigWagCo/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/internal/common"
 )
 
 var invoke common.Invoker = common.Invoke{}

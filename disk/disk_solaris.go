@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/WigWagCo/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/internal/common"
 	"golang.org/x/sys/unix"
 )
 

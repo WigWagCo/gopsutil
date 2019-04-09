@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/WigWagCo/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/internal/common"
 )
 
 func Info() (*InfoStat, error) {

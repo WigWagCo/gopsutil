@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/WigWagCo/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/internal/common"
 	"github.com/stretchr/testify/assert"
 )
 

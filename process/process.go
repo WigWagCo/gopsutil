@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/WigWagCo/gopsutil/cpu"
-	"github.com/WigWagCo/gopsutil/internal/common"
-	"github.com/WigWagCo/gopsutil/mem"
+	"github.com/armPelionEdge/gopsutil/cpu"
+	"github.com/armPelionEdge/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/mem"
 )
 
 var (

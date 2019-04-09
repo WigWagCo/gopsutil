@@ -15,7 +15,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/WigWagCo/gopsutil/internal/common"
+	"github.com/armPelionEdge/gopsutil/internal/common"
 )
 
 // NetIOCounters returnes network I/O statistics for every network
